@@ -5,7 +5,7 @@
 - 决策树
 - 随机森林
 ## 大佬指南
-<a href=https://github.com/StefanH-AT>
+<a href=https://github.com/ljpzzz>
     <img src=https://avatars.githubusercontent.com/u/13940977?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=ljpzzz/>
     <br />
     <sub style="font-size:14px"><b>ljpzzz</b></sub>
