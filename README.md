@@ -1,15 +1,29 @@
 # Machine_Learning
-![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ## 机器学习笔记
 - KNN
 - 决策树
 - 随机森林
-## 大佬指南
-<a href=https://github.com/ljpzzz>
-    <img src=https://avatars.githubusercontent.com/u/13940977?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=ljpzzz/>
-    <br />
-    <sub style="font-size:14px"><b>刘建平(Pinard Liu)</b></sub>
-</a> <br>
+
+## 巨佬指南
+<table>
+    <tr>
+        <td>
+            <a href=https://github.com/ljpzzz>
+                <img src=https://avatars.githubusercontent.com/u/13940977?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=ljpzzz/>
+                <br />
+                <sub style="font-size:14px"><b>刘建平(Pinard Liu)</b></sub>
+            </a> <br>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+            <a href=https://space.bilibili.com/1567748478/>
+                <img src=https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg@240w_240h_1c_1s_!web-avatar-space-header.avif width="100;"  style="border-radius:50%;align-items:center;
+                    justify-content:center;overflow:hidden;padding-top:10px" alt=limu/>
+                <br/>
+                <sub style="font-size:14px;"><b>李沐</b></sub>
+            </a>
+        </td>
+    </tr>
+</table>
 
 <hr>
 
@@ -20,3 +34,4 @@
 ![](https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=Pytorch&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-yellow.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Pycharm-black.svg?&style=for-the-badge&logo=Pycharm&logoColor=white)
+ 
