@@ -31,6 +31,14 @@
             </a>
         </td>
         <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+            <a href=https://www.youtube.com/@HungyiLeeNTU>
+                <img src=https://yt3.googleusercontent.com/ytc/APkrFKYa4n95tERAhaXcguAwwpeRVw924VSePL7mc6Y9uQ=s176-c-k-c0x00ffffff-no-rj width="100;"  style="border-radius:50%;align-items:center;
+                    justify-content:center;overflow:hidden;padding-top:10px" alt=Hung-yi Lee/>
+                <br/>
+                <sub style="font-size:14px;"><b>Hung-yi Lee</b></sub>
+            </a>
+        </td>
+        <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
             <a href=https://www.youtube.com/@patloeber>
                 <img src=https://yt3.googleusercontent.com/FrsXA25vVOrWoN7g-UPh5hnZqpskAex0ilQ1LcWUsgtxTtWJAGaD51nMoiptonh_tIprjE9xKQ=s176-c-k-c0x00ffffff-no-rj width="100;"  style="border-radius:50%;align-items:center;
                     justify-content:center;overflow:hidden;padding-top:10px" alt=Patrick Loeber />
